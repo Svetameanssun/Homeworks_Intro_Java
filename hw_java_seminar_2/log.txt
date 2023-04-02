@@ -1,0 +1,2 @@
+Apr 02, 2023 6:34:22 PM Segundo main
+INFO: The result of the iteration
